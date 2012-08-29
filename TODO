@@ -1,0 +1,7 @@
+O Make decision to turn left or right based on available space.
+O If neither left or right is a good option, move backward more than once.
+O Run continiously forward. Only release if we need to actually measure and turn.
+O Make speed dynamic (distanceAhead > X, speed is higher), slow down for turning.
+O Add GPS and try to navigate to set coordinates.
+O Detect when blocked against an object we couldn't measure (hint: use encoders!)
+O Install battery volt indicator.
